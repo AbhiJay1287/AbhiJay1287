@@ -44,14 +44,28 @@
 <img src="./horizontal-divider-gradient.gif">
 
 ## 🛠️ Languages and Tools
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">    
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC">
+<br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<br>
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68A063">
+  <img src="https://img.shields.io/badge/ExpressJS-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=white">
 
-   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">    <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"><br>
+  <br>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28">
+
+  <br>
+   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">    
+   
+   <br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">    <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white">
-
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37">
 <img src="./horizontal-divider-gradient.gif">
 
 ## ⭐️ My Favourite Repo's 
