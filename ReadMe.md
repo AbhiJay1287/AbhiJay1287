@@ -50,14 +50,10 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68A063">
-  <img src="https://img.shields.io/badge/ExpressJS-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68A063"><img src="https://img.shields.io/badge/ExpressJS-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=white">
 
   <br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28">
 
   <br>
    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">    
