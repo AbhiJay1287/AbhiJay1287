@@ -1,6 +1,6 @@
 ﻿<!-- Intro  -->
 <div>
-<img src="./PBanner.png" alt="banner" style="100%">
+<img src="./banner.png" alt="banner" style="100%">
 <h3 align="center">
         <samp>&gt;<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="AbhiJay1287" style="width:25px"/> Hey There!, I am
                 <b><a target="_blank" href="">Abhinav Gumpu</a></b>
@@ -57,8 +57,8 @@
 ## ⭐️ My Favourite Repo's 
 <table style="border-collapse: collapse; border: 0; width: 100%;">
 <tr>
-<td>   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiJay1287&repo=MyPortfolio&theme=ambient_gradient" style="width:100%;height:auto" alt="MyPortfolio repo"></td>
-<td> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiJay1287&repo=webopen&theme=ambient_gradient" style="width:100%;height:auto" alt="webopen repo"></td>
+<td>   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiJay1287&repo=Inspiring-GOO&theme=ambient_gradient" style="width:100%;height:auto" alt="MyPortfolio repo"></td>
+<td> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiJay1287&repo=Glaucoma_Detection_ML&theme=ambient_gradient" style="width:100%;height:auto" alt="webopen repo"></td>
 </tr>
 </table>
 <img src="./horizontal-divider-gradient.gif">
@@ -71,12 +71,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiJay1287&layout=compact&theme=merko" alt="Top Languages" style="width: 100%; height: 200px;">
     </td>
     <td style="border: 0; padding: 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshwarmarri&theme=github_dark" alt="GitHub Streak" style="width: 100%; height: 200px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiJay1287&theme=github_dark" alt="GitHub Streak" style="width: 100%; height: 200px;">
     </td>
   </tr>
   <tr>
     <td colspan="2" style="border: 0; padding: 0;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiJay1287&theme=merko" alt="Bhuvaneshwar's GitHub activity graph" style="width: 100%; height: auto;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiJay1287&theme=merko" alt="Abhinav's GitHub activity graph" style="width: 100%; height: auto;">
     </td>
   </tr>
 </table>
