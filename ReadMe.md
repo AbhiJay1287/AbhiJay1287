@@ -3,7 +3,7 @@
 <img src="./PBanner.png" alt="banner" style="100%">
 <h3 align="center">
         <samp>&gt;<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="AbhiJay1287" style="width:25px"/> Hey There!, I am
-                <b><a target="_blank" href="">Bhuvaneshwar Marri</a></b>
+                <b><a target="_blank" href="">Abhinav Gumpu</a></b>
         </samp>
 </h3>
 
