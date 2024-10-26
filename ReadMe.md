@@ -52,10 +52,10 @@
 <br>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68A063"><img src="https://img.shields.io/badge/ExpressJS-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=white">
 
-  <br>
+<br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28">
 
-  <br>
+<br>
    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">    
    
    <br>
