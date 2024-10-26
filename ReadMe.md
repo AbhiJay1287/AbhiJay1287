@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/bhuvaneshwar-marri/" target="_blank">
+ <a href="https://www.linkedin.com/in/abhinav-gumpu-8bb29322a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AbhiJay1287"/>
  </a>
- <a href="mailto:bhuvaneshwarmarri@gmail.com" target="_blank">
+ <a href="mailto:jayenthg@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="AbhiJay1287"/>
  </a>
 </p>
