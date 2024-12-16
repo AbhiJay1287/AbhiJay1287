@@ -91,19 +91,3 @@
   </tr>
 </table>
 <img src="./horizontal-divider-gradient.gif">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/marri-bhuvaneshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marri-bhuvaneshwar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhuvaneshwar-marri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvaneshwar-marri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/marri-bhuvaneshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marri-bhuvaneshwar" height="30" width="40" /></a>
-<a href="https://kaggle.com/marribhuvaneshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marribhuvaneshwar" height="30" width="40" /></a>
-<a href="https://instagram.com/marri.bhuvaneshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marri.bhuvaneshwar" height="30" width="40" /></a>
-<a href="https://medium.com/@bhuvaneshwarmarri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhuvaneshwarmarri" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhuvan3413" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhuvan3413" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/21241a05g3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21241a05g3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bharadwaj9271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bharadwaj9271" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhuvaneshwar5g3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhuvaneshwar5g3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhuvaneshwarmarri/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhuvaneshwarmarri/profile" height="30" width="40" /></a>
-</p>
-<img src="./horizontal-divider-gradient.gif">
